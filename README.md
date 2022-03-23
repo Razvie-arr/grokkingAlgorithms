@@ -1,2 +1,1 @@
-# Grokking-Algorithms
-Алгоритмы из книги "Грокаем алгоритмы"
+Algorithms from the book "Grokking Algorithms"
